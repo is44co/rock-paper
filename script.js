@@ -1,12 +1,4 @@
-// For this challenge, assume there are 365 days in a year, 52 weeks in a year and 12 months in a year.
 
-// Write a program that takes a user’s input and prints the numbers from one to the number the user entered. However, for multiples of
-//  three print Fizz instead of the number and for the multiples
-//   of five print Buzz. For numbers which are multiples of both 
-//   three and five print FizzBuzz.
-// function computer(){
-// let computerChoice=Math.floor(Math.random()*3);
-// let userChoice=prompt("Choose, Rock,Paper,Scissors"," ")
 
 
 let userPoints=0;
